@@ -1,0 +1,25 @@
+{
+  "name": "nokoin",
+  "version": "0.1.5",
+  "description": "Node.js app for nokoin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node project/start.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heejoojin/nokoin"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "license": "MIT"
+}

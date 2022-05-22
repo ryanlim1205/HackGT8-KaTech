@@ -1,0 +1,72 @@
+body {
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#screen1 {
+	background-image: url('/images/screens/1.png');
+}
+
+#screen2 {
+	background-image: url('/images/screens/2.png');
+}
+
+#screen3 {
+	background-image: url('/images/screens/3.png');
+}
+
+#screen4 {
+	background-image: url('/images/screens/4.png');
+}
+
+#screen5 {
+	background-image: url('/images/screens/5.png');
+}
+
+#error {
+	background-image: url('/images/screens/error.png');
+}
+
+.cash-button {
+	position: relative;
+    width: 11.476vw;
+    left: 12.408vw;
+    top: 19.761vw;
+}
+
+.insert-button {
+	position: relative;
+    width: 32.259vw;
+    left: 18.078vw;
+    top: 31.654vw;
+}
+
+.cryto-button {
+	cursor: pointer;
+	position: relative;
+    width: 11.376vw;
+    left: 34.947vw;
+    top: 21.696vw;
+}
+
+.back-button {
+	position: relative;
+	width: 10.567vw;
+	left: 16.174vw;
+    top: 46.722vw;
+}
+
+#video {
+	position: relative;
+	width: 47.554vw;
+	height: 33.967vw;
+	left: 10.290vw;
+    top: 10.326vw;
+}
+
+#loading {
+	position: relative;
+	width: 10.967vw;
+	left: 28.174vw;
+    top: 12.022vw;
+}
